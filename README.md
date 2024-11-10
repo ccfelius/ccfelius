@@ -3,7 +3,8 @@
 Located @ Amsterdam, NL
   
  ### Education:
- 
+
+ - PhD Computer Science at Centrum Wiskunde & Informatica, Amsterdam, NL (Ongoing)
  - MSc Computational Science (Joint Degree) at University of Amsterdam & Vrije Universiteit Amsterdam
  - BSc Systems Engineering, Policy Analysis & Management at Delft University of Technology
 
