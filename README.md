@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Located @ Amsterdam, NL
+Current PhD Student Computer Science at Centrum Wiskunde & Informatica in the Database Architectures Group. 
   
  ### Education:
 
- - PhD Computer Science at Centrum Wiskunde & Informatica, Amsterdam, NL (Ongoing)
  - MSc Computational Science (Joint Degree) at University of Amsterdam & Vrije Universiteit Amsterdam
  - BSc Systems Engineering, Policy Analysis & Management at Delft University of Technology
 
