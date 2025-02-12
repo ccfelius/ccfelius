@@ -1,9 +1,16 @@
-### Hi there 👋
+ ## Charlotte (Lotte) Felius
 
-Current PhD Student Computer Science at Centrum Wiskunde & Informatica in the Database Architectures Group. 
-  
- ### Education:
+ ### Publications
 
+ - *VCrypt: Leveraging Vectorized and Compressed Execution for Client-Side Encryption at EDBT 2025* (to appear)  
+ - [Enhancing Security for Columnar Storage and Data Lakes](https://core.ac.uk/download/pdf/620332847.pdf) at VLDB 2024  
+ - [DuckDB-SGX2: The Good, The Bad and The Ugly within Confidential Analytical Query Processing](https://dl.acm.org/doi/pdf/10.1145/3662010.3663447) at DaMoN @ SIGMOD 2024  
+ - [Accelerating GPU Data Processing using FastLanes Compression](https://dl.acm.org/doi/pdf/10.1145/3662010.3663450) at DaMoN @ SIGMOD 2024
+ 
+ 
+ 
+ ### Education
+ - PhD Student at CWI in the Database Architectures Group (ongoing)
  - MSc Computational Science (Joint Degree) at University of Amsterdam & Vrije Universiteit Amsterdam
  - BSc Systems Engineering, Policy Analysis & Management at Delft University of Technology
 
