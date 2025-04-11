@@ -10,7 +10,7 @@
  
  
  ### Education
- - PhD Student at CWI in the Database Architectures Group (ongoing)
+ - PhD Student at CWI in the Database Architectures Group working on secure query processing
  - MSc Computational Science (Joint Degree) at University of Amsterdam & Vrije Universiteit Amsterdam
  - BSc Systems Engineering, Policy Analysis & Management at Delft University of Technology
 
