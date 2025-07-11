@@ -2,6 +2,7 @@
 
  ### Publications
 
+ - [G-ALP: Rethinking Light-weight Encodings for GPUs](https://dl.acm.org/doi/full/10.1145/3736227.3736242) at DaMoN @ SIGMOD 2025
  - [VCrypt: Leveraging Vectorized and Compressed Execution for Client-Side Encryption](https://openproceedings.org/2025/conf/edbt/paper-347.pdf) at EDBT 2025
  - [Enhancing Security for Columnar Storage and Data Lakes](https://core.ac.uk/download/pdf/620332847.pdf) at VLDB 2024  
  - [DuckDB-SGX2: The Good, The Bad and The Ugly within Confidential Analytical Query Processing](https://dl.acm.org/doi/pdf/10.1145/3662010.3663447) at DaMoN @ SIGMOD 2024  
