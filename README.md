@@ -1,5 +1,11 @@
  ## Charlotte (Lotte) Felius
 
+ Software Engineer @ DuckDB Labs
+
+ ### Education
+ - MSc Computational Science at University of Amsterdam
+ - BSc Systems Engineering, Policy Analysis & Management at Delft University of Technology
+
  ### Publications
 
  - [G-ALP: Rethinking Light-weight Encodings for GPUs](https://dl.acm.org/doi/full/10.1145/3736227.3736242) at DaMoN @ SIGMOD 2025
@@ -7,13 +13,7 @@
  - [Enhancing Security for Columnar Storage and Data Lakes](https://core.ac.uk/download/pdf/620332847.pdf) at VLDB 2024  
  - [DuckDB-SGX2: The Good, The Bad and The Ugly within Confidential Analytical Query Processing](https://dl.acm.org/doi/pdf/10.1145/3662010.3663447) at DaMoN @ SIGMOD 2024  
  - [Accelerating GPU Data Processing using FastLanes Compression](https://dl.acm.org/doi/pdf/10.1145/3662010.3663450) at DaMoN @ SIGMOD 2024
- 
- 
- 
- ### Education
- - PhD Student at CWI in the Database Architectures Group working on secure query processing
- - MSc Computational Science (Joint Degree) at University of Amsterdam & Vrije Universiteit Amsterdam
- - BSc Systems Engineering, Policy Analysis & Management at Delft University of Technology
+
 
 <!--
 **ccfelius/ccfelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
