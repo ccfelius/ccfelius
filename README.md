@@ -1,10 +1,6 @@
  ## Charlotte (Lotte) Felius
 
- Software Engineer @ DuckDB Labs
-
- ### Education
- - MSc Computational Science at University of Amsterdam
- - BSc Systems Engineering, Policy Analysis & Management at Delft University of Technology
+ Software Engineer @ Grafana Labs
 
  ### Publications
 
